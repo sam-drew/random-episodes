@@ -1,0 +1,23 @@
+html {
+    font-family: 'Helvetica';
+}
+
+body {
+    padding-top: 25px;
+    margin: 0 auto;
+    text-align: center;
+    max-width: 550px;
+}
+
+.heading {
+    font-weight: bold;
+    font-size: 250%;
+}
+
+.episode {
+    font-weight: bold;
+    padding-top: 25px;
+    margin: 0 auto;
+    text-align: center;
+    font-size: 125%;
+}
