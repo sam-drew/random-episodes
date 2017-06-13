@@ -2,11 +2,25 @@ html {
     font-family: 'Helvetica';
 }
 
+footer {
+    padding-top: 100px;
+}
+
 body {
     padding-top: 25px;
     margin: 0 auto;
     text-align: center;
     max-width: 550px;
+}
+
+a:visited {
+    text-decoration: none;
+    color: #000000;
+}
+
+a {
+    text-decoration: none;
+    color: #000000;
 }
 
 .heading {
