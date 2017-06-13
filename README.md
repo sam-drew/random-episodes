@@ -5,4 +5,4 @@ Refresh the page for a new episode.
 
 [Try it out here.](http://randomeps.ninesixtwo.xyz)
 
-This does in no way give you access without permission to content granted by licence by Netflix. This will not work without an existing Netflix account.
+This does in no way give you access without permission to content available on Netflix. This will not work without an existing Netflix account.
