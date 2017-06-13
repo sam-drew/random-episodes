@@ -138,7 +138,7 @@ window.onload=()=>{
     var episode_number = Math.floor(Math.random() * episodes[(season - 1)][1].length);
     var episode = episodes[(season - 1)][1][episode_number].toString();
     var season = season.toString();
-    var episode_number = episode_number.toString();
+    var episode_number = (episode_number + 1).toString();
     var link = document.getElementById('link');
     link.href = 'http://www.netflix.com/watch/' + episode;
     document.getElementById("link").innerHTML = 'RANDOM EPISODE: S' + season + ' E' + episode_number;
